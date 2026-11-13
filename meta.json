@@ -1,0 +1,8 @@
+{
+  "codex_edition": "1.0",
+  "codex_date": "2026-10-18",
+  "codex_source_file": "CODEX.en.md",
+  "codex_sha256": "a9e5a3edc37d99045bbdaa915157eb1c78d6ee5a2d31f5f0ba71b5b315239542",
+  "schema_version": "0.1.0",
+  "note": "codex_sha256 must match MANIFEST.txt in the codexofweights repository. If it does not, this schema is out of date with the canon and must not be trusted until updated."
+}

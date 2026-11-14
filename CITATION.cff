@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Codex of Weights: protocols schema"
+type: dataset
+authors:
+  - family-names: Arzamastsev
+    given-names: Artem A.
+    alias: "Артем Андреевич Арзамасцев"
+license: MIT
+repository-code: "https://github.com/codexofweight/codex-protocols-schema"
+url: "https://codexofweight.github.io/codexofweights/"
+abstract: "The Protocols of the Codex of Weights as machine-readable JSON, verified against the canonical text."
+keywords: [Codex of Weights, AI ethics, AI alignment, AI safety, AI agents]
+references:
+  - type: generic
+    title: "Codex of Weights (Кодекс Весов), Edition 1.0"
+    authors:
+      - family-names: Arzamastsev
+        given-names: Artem A.
+    doi: 10.5281/zenodo.23545813
+    url: "https://github.com/codexofweight/codexofweights"
